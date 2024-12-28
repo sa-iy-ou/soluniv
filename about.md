@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About Us
-
 Welcome to our website, your go-to source for everything related to Solana meme coins!  
 
 Our mission is simple: to deliver accurate, timely, and valuable information about Solana-based meme coins and the ever-evolving cryptocurrency landscape. Whether you're new to the world of Solana or a seasoned trader, you'll find content here that's tailored to help you navigate the exciting opportunities and risks of this unique ecosystem.
