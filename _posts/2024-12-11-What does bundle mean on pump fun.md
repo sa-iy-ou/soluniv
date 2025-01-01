@@ -1,5 +1,7 @@
 # What does 'bundle' mean on pump.fun?
 
+![bundle?]({{ site.baseurl }}/images/4-1.png)
+
 If you've been exploring decentralized exchanges (DEX) like **pump.fun**, you've probably come across the term **"bundle"** in the comments section or Telegram discussions. But what exactly is a bundle, and why should you care?
 
 In this post, we’ll break down:
@@ -42,7 +44,7 @@ Pump.fun provides visual transaction data that can help detect bundle activity. 
 - **Simultaneous Transactions in the Same Block**: Transactions that occur within milliseconds of each other in the same slot are likely bundles.
 - **Large Token Purchases Across Multiple Wallets**: If several wallets make large purchases within the same block, it could indicate coordinated bundle activity.
 
-![Pump.fun Transaction Data]({{ site.baseurl }}/images/4-1.png)
+![Pump.fun Transaction Data]({{ site.baseurl }}/images/4-2.png)
 
 
 For example:
@@ -62,7 +64,7 @@ For example:
    - **Current Held Percentage**: This indicates how much of the total supply is held by bundle wallets. Higher percentages are a red flag.  
    - **Top 5 Bundles**: Check how much of the supply is concentrated in the top bundles. A single bundle holding over 10% of the supply is concerning.  
 
-![TrenchRadar Data]({{ site.baseurl }}/images/4-2.png)
+![TrenchRadar Data]({{ site.baseurl }}/images/4-3.png)
 
 For example:
 - A token with a **16.96% Current Held Percentage** by bundle wallets may suggest significant insider control.  
