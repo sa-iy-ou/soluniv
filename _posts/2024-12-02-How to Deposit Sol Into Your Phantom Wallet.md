@@ -22,7 +22,7 @@ Before initiating the transfer from Binance, obtain your Phantom Wallet's SOL de
 
 ## Step 2: Log In to Binance and Access the Spot Wallet
 
-1. **Log In**: Access your Binance account. If you don't have one, register at [Binance's official website](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Y5NF9BRQ).  
+1. **Log In**: Access your Binance account. If you don't have one, register at [Binance's official website](https://accounts.binance.com/register?ref=21635658).  
 2. **Navigate to Wallet**: Hover over the **"Wallet"** icon in the top-right corner and select **"Spot"** from the dropdown menu.  
 3. **Locate SOL**: Use the search bar to find **Solana (SOL)** in your list of assets.  
 
