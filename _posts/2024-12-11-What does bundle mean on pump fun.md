@@ -1,4 +1,3 @@
-# What does 'bundle' mean on pump.fun?
 
 ![bundle?]({{ site.baseurl }}/images/4-1.png)
 
@@ -101,7 +100,7 @@ When creating a coin, using **sniping** is often the simplest way to make initia
 There are even services available that help you create coins with bundled purchases.
 
 ### Example Tool:
-- [WIF Bundles Bot](https://t.me/wif_bundles_bot)  
+- [WIF Bundles Bot](https://t.me/wif_bundles_bot?ref=adtj3fs21)  
   This Telegram bot appears to offer services for linking multiple wallets and automating bundled purchases for a small fee. *(This is a referral link with discounted fees.)*
 
 Although I haven’t personally used it, from what I’ve seen, you can input details about your coin and wallets, and the service handles the rest—including bundled token purchases.
